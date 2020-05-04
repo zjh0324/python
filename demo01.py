@@ -32,6 +32,8 @@
 # print(len(a))
 
 # print(type(str(False)))
-a = input('请输入：')
-b = input('请输入：')
-print('两端字符串的长度是：',len(a)+len(b))
+# a = input('请输入：')
+# b = input('请输入：')
+# print('两端字符串的长度是：',len(a)+len(b))
+a = 'hllasfjljafsjiiewj'
+print(len(a))
