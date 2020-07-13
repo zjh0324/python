@@ -35,5 +35,58 @@
 # a = input('请输入：')
 # b = input('请输入：')
 # print('两端字符串的长度是：',len(a)+len(b))
-a = 'hllasfjljafsjiiewj'
-print(len(a))
+# a = 'hllasfjljafsjiiewj'
+# print(len(a))
+# a = (1,2,'hh','miss',4,'aoligei','hhxxttxx','hh',False,'喜喜')
+# print(a[6]) 
+# print(a.index('hh'))
+# print(a.count('hh'))
+# b = (a,'hh','xx')
+# print(b[0][3])
+# print(a[:])
+# print(a[1:5])
+# print(a[8:])
+# a = [1,2,'hh','miss',4,'aoligei','hhxxttxx','hh',False,'喜喜']
+# print(a[4])
+# a.append('hhxx')
+# a.insert(3,'好好学习')
+# a.pop(3)
+# print(a)
+# b = a.pop(3)
+# c =str(a.pop(3))
+# print(b+c)
+# print(b)
+# xx = ['哈哈','爱了']
+# a.extend(xx)
+# print(a)
+# a.remove(0)
+# print(a)
+# a.append(True)
+# print(a)
+# print(a.count(1))
+# a = {'name':'张三','sex':'男','age':'22'}
+# print(a['name'])
+# a['high'] = '178cm'
+# print(a)
+# a['name'] = '胡歌'
+# print(a)
+# a.update(name='李四')
+# # print(a)
+# print('----------------------') 
+# print(a.get('namell'))
+# print(a['namell'])
+# print(a.get('name'))
+# print(a.pop('age'))
+# print(a)
+# name = input('请输入你的姓名:')
+# age = input('请输入你的年龄:')
+# sex = input('请输入你的性别:')
+# userinfo = {}
+# userinfo.update(name=name,age=age,sex=sex)
+# print(userinfo)
+
+
+# table = '姓名\t性别\t年龄\n黎明\t男\t33\t'
+# print(table)
+
+print(2+5)
