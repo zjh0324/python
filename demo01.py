@@ -81,12 +81,22 @@
 # name = input('请输入你的姓名:')
 # age = input('请输入你的年龄:')
 # sex = input('请输入你的性别:')
-# userinfo = {}
+
 # userinfo.update(name=name,age=age,sex=sex)
 # print(userinfo)
 
 
+
+
+
+# a = (1,2,'hh','miss',4,'aoligei','hhxxttxx','hh',False,'喜喜')
+# print(a.index(1))
+
+# a = {}
+# a['name']='liming'
+# print(a)
+
 # table = '姓名\t性别\t年龄\n黎明\t男\t33\t'
 # print(table)
-
-print(2+5)
+a=sum(range(1,365))
+print(a)

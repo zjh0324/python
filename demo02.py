@@ -85,3 +85,5 @@ except Exception as e:
 
 
     # 包->类->方法->变量
+
+print('5'+'jjj')
